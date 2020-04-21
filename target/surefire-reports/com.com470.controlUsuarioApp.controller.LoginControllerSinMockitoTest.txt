@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.com470.controlUsuarioApp.controller.LoginControllerSinMockitoTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.086 sec <<< FAILURE! - in com.com470.controlUsuarioApp.controller.LoginControllerSinMockitoTest
+testLogin(com.com470.controlUsuarioApp.controller.LoginControllerSinMockitoTest)  Time elapsed: 0.027 sec  <<< ERROR!
+javax.security.cert.CertificateException: InvocationTargetException: javax.security.cert.CertificateException: Could not parse certificate: java.io.IOException: Empty input
+	at com.com470.controlUsuarioApp.controller.LoginControllerSinMockitoTest.testLogin(LoginControllerSinMockitoTest.java:20)
+
